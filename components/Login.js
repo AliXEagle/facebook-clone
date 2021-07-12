@@ -3,6 +3,7 @@ import Image from "next/image"
 function Login() {
   return (
     <div>
+      <h1>Hola</h1>
       <Image 
         src='https://links.papareact.com/t4i'
         height={400}
